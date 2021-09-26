@@ -27,7 +27,7 @@ public class TestApplication {
     @Test
     public void testHomeFolderPOSIXPath() {
         final Application application = Application.getInstance();
-        final String posixPath = application.getHomeFolder().getPOSIXPath();
+        final String posixPath = application.getHomeFolder().getPosixPath();
         assertEquals(System.getProperty("user.home"), posixPath);
     }
 
