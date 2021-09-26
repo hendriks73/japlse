@@ -54,7 +54,7 @@ public class GetDownloadsFolder {
 
     public static void main(final String[] args) {
         final Application application = Application.getInstance();
-        final String downloadsFolder = application.getDownloadsFolder().getPOSIXPath();
+        final String downloadsFolder = application.getDownloadsFolder().getPosixPath();
         System.out.println("Downloads folder: " + downloadsFolder);
     }
 }
