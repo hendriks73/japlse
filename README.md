@@ -1,12 +1,12 @@
 [![LGPL 2.1](https://img.shields.io/badge/License-LGPL_2.1-blue.svg)](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.tagtraum/japlse/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.tagtraum/japlse)
-[![Build and Test](https://github.com/hendriks73/japlse/workflows/Build%20and%20Test/badge.svg)](https://github.com/hendriks73/japlse/actions)
+[![Build and Test](https://github.com/japlscript/japlse/workflows/Build%20and%20Test/badge.svg)](https://github.com/japlscript/japlse/actions)
 
 
 # JaplSE
 
 *JaplSE* is a Java API for the AppleScript System Events based on
-[JaplScript](https://github.com/hendriks73/japlscript).
+[JaplScript](https://github.com/japlscript/japlscript).
 
 
 ## Installation
@@ -61,7 +61,7 @@ public class GetDownloadsFolder {
 ```
 ## API
 
-You can find the complete [API here](https://hendriks73.github.io/japlse/com/tagtraum/macos/systemevents/package-summary.html). 
+You can find the complete [API here](https://japlscript.github.io/japlse/com/tagtraum/macos/systemevents/package-summary.html). 
 
 
 ## AppleScript Sandbox
